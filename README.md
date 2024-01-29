@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssem-ghabarou&show_icons=true&locale=en" alt="houssem-ghabarou" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-ghabarou&" alt="houssem-ghabarou" /></p>
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houssem-Ghabarou)](https://github.com/anuraghazra/github-readme-stats)
+
