@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houssem-ghabarou&label=Profile%20views&color=0e75b6&style=flat" alt="houssem-ghabarou" /> </p>
 
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Houssem-Ghabarou/MyPortfolio)
+- 🔭 I’m currently working on BaliMoufid Poject which is elearning platform for car diagnostics
 
-- 🌱 I’m currently learning **Typescript,Tailwind css.**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React**
 
