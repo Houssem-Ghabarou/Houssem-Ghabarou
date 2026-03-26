@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=houssem-ghabarou&label=Profile%20views&color=0e75b6&style=flat" alt="houssem-ghabarou" />
 </p>
 
-- 🧢 Currently working on **Jibha**, an app connectring travelers and requestors
+- 🧢 Currently working on **Jibha**, an app connecting travelers and requestors
 - 💼 Working at **iMaxeam IBM**  
 - 📱 I’m a **React Native** mobile developer  
 - 🌐 I’m also skilled in **web development** using **React** and **Next.js**  
