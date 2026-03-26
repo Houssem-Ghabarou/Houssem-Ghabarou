@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=houssem-ghabarou&label=Profile%20views&color=0e75b6&style=flat" alt="houssem-ghabarou" />
 </p>
 
-- 🧢 Currently working on **Glory**, a stylish clothing brand website  
+- 🧢 Currently working on **Jibha**, an app connectring travelers and requestors
 - 💼 Working at **iMaxeam IBM**  
 - 📱 I’m a **React Native** mobile developer  
 - 🌐 I’m also skilled in **web development** using **React** and **Next.js**  
-- 🔍 Currently exploring deeper capabilities of **Next.js** (not just the basics)  
+- 🔍 Currently exploring deeper capabilities of **Next.js**
 - ⚙️ I use **Redux**, **RabbitMQ**, **Jenkins**, **Nginx**, and **Tailwind CSS**  
 - 💬 Ask me about **React, React Native, or scalable architecture**  
 - 📫 Reach me at **houssemghabarou@gmail.com**
